@@ -1,5 +1,25 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",Afghanistan
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/TOLO_(TV_channel)#/media/File:TOLO_TV_logo_2016.png" , TOLO TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tolonews.com/themes/custom/tolonews/images/logo-af.jpg" , TOLO NEWS
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/Lemar_(TV_channel)#/media/File:Lemar_logo_2016.png" , LEMAR TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:-1 tvg-logo="",Azebaijan
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://yoda.az/a1/aztv_logo.png" ,AZ TV 
+https://str2.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yoda.az/a1/medeniyyet_logo.png" , medeniyyet tv
+https://str2.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yoda.az/idmanlive/idman_logo.png" , IDMAN TV
+https://str1.yodacdn.net/idman_300_to_small/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" ,ITV AZ
+https://node19.connect.az:9081/tv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://atv.az/assets/images/logo_white.png" ,ATV AZ
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://arbtv.az/brand/arb242.jpeg" ,ARB 24
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" ,CBC AZ
+https://5dcab9aed5331.streamlock.net/CBCTVLive/livestream/chunklist.m3u8
