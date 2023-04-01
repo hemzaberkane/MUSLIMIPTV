@@ -25,7 +25,7 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 https://5dcab9aed5331.streamlock.net/CBCTVLive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",Kazakhstan
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Qazaqstan TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png" ,Qazaqstan TV
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Qazaqstan int
 https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
@@ -35,17 +35,17 @@ https://ikomg3.s.llnwi.net/test123/master.m3u8
 https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/551672f0daee346d317ecd77c6c51763--livemaster--xcqabrno5k_AstanaTV--index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://balapan.tv/img/footer-logo.png" ,Balapan tv
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,31 KZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Channel_31_logo_2020.png" ,31 KZ
 https://31kz-streams.daitsuna.net/31kz/31kz/31kz/31kz_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://1tv.kz/wp-content/uploads/2021/06/logo-1tv.png" ,1TV KZ
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_540/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://24.kz/templates/khabar24/img/logo.png" ,Khabar 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,KTK TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" ,KTK TV
 https://sc.id-tv.kz/KTK.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,MPTK TV
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,7 Kanal
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv7.kz/wp-content/uploads/2023/02/LogoSeven.png?x80643" ,7 Kanal
 https://sc.id-tv.kz/7_kanal.m3u8
 #EXTINF:-1 tvg-logo="",Turkmenistan
 0.0.0.0
@@ -79,33 +79,35 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png" ,TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TVRI World
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TVRIWorld.png" ,TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" ,TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" ,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Metro Global Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.metroglobe.id/assets/img/logo-white.png" ,Metro Global Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Metro TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.metrotvnews.com/asset/asset/logo.png" ,Metro TV
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Trans 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://indotv.fandom.com/wiki/Special:FilePath/Trans_7_2013.png" ,Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Trans TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/524-5242341_thumb-image-download-logo-trans-tv-hd-png.png" ,Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,The Indonesia Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.theindonesiachannel.com/uploads/site/TIC_Logo_2019_Web2X.png" ,The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Malaysia
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 1 Malaysia
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png" ,TV 1 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 2 Malaysia
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg" ,TV 2 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Astro Awani TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg" ,OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" ,BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" ,TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" ,Astro Awani TV
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Bernama TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.bernama.com/tv/img/bernama.png" ,Bernama TV
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 1 Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 2 Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
