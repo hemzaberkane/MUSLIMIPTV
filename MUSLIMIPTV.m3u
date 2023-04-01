@@ -55,8 +55,57 @@ https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch006_400/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" ,Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="",Kazakhstan
+#EXTINF:-1 tvg-logo="",Maldives
 0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vnews.mv/public/images/logo.png?v=1" ,VTV
+https://vtvstream.vnews.mv/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",Brunei
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera.png" ,RTB 1
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",Brunei
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png" ,TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
