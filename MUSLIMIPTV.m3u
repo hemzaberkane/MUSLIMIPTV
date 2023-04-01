@@ -23,3 +23,48 @@ http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" ,CBC AZ
 https://5dcab9aed5331.streamlock.net/CBCTVLive/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",Kazakhstan
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Qazaqstan int
+https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jjtv.kz/newdesign/img/Group17en.png" ,Silk Way
+https://ikomg3.s.llnwi.net/test123/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.astanatv.kz/build/images/Astana_Chanel_logo_.png" ,ASTANA TV
+https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/551672f0daee346d317ecd77c6c51763--livemaster--xcqabrno5k_AstanaTV--index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://balapan.tv/img/footer-logo.png" ,Balapan tv
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,31 KZ
+https://31kz-streams.daitsuna.net/31kz/31kz/31kz/31kz_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://1tv.kz/wp-content/uploads/2021/06/logo-1tv.png" ,1TV KZ
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_540/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://24.kz/templates/khabar24/img/logo.png" ,Khabar 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",Turkmenistan
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/altyn.png" ,ALTIN ASYR
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/yaslyk.png" ,Yaslyk
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/miras.png" ,Miras
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/turkmenistan.png" ,Turkmenistan
+https://alpha.tv.online.tm/hls/ch007_200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/owaz.png" ,Turkmen Owazy
+https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/ashgabat.png" ,Ashgabat
+https://alpha.tv.online.tm/hls/ch006_400/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" ,Turkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="",Kazakhstan
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
