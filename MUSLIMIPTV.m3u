@@ -1,11 +1,11 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-logo="",Afghanistan
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/TOLO_(TV_channel)#/media/File:TOLO_TV_logo_2016.png" , TOLO TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/TOLO_TV_logo_2016.png" ,TOLO TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tolonews.com/themes/custom/tolonews/images/logo-af.jpg" , TOLO NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://tolonews.com/themes/custom/tolonews/images/logo-af.jpg" ,TOLO NEWS
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/Lemar_(TV_channel)#/media/File:Lemar_logo_2016.png" , LEMAR TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" ,LEMAR TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
 #EXTINF:-1 tvg-logo="",Azebaijan
 0.0.0.0
@@ -25,6 +25,8 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 https://5dcab9aed5331.streamlock.net/CBCTVLive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",Kazakhstan
 0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Qazaqstan TV
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Qazaqstan int
 https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jjtv.kz/newdesign/img/Group17en.png" ,Silk Way
@@ -39,6 +41,12 @@ https://31kz-streams.daitsuna.net/31kz/31kz/31kz/31kz_1080/chunks.m3u8
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_540/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://24.kz/templates/khabar24/img/logo.png" ,Khabar 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,KTK TV
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,MPTK TV
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,7 Kanal
+https://sc.id-tv.kz/7_kanal.m3u8
 #EXTINF:-1 tvg-logo="",Turkmenistan
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/altyn.png" ,ALTIN ASYR
@@ -63,7 +71,11 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/chunklist.m3u8
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera.png" ,RTB 1
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="",Brunei
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" ,RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png" ,RTB GO LIVE
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Indonesia
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png" ,TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -71,49 +83,29 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="" ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Metro Global Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Metro TV
+https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,The Indonesia Channel
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Malaysia
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 1 Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 2 Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Astro Awani TV
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Bernama TV
+https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 1 Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TV 2 Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
