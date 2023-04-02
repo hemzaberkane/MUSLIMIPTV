@@ -49,6 +49,10 @@ https://sc.id-tv.kz/KTK.m3u8
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv7.kz/wp-content/uploads/2023/02/LogoSeven.png?x80643" ,7 Kanal
 https://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 tvg-logo="",Kirghizistan
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1 KG 
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Turkmenistan
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/altyn.png" ,ALTIN ASYR
