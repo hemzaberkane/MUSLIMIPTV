@@ -117,3 +117,5 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.bernama.com/tv/img/bernama.png" ,Bernama TV
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,8tv
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
