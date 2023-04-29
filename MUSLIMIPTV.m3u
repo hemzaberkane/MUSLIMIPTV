@@ -193,9 +193,9 @@ https://s1.ettehadlive.com/live/15/chunklist.m3u8
 https://s1.ettehadlive.com/live/99/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM EN
 https://s1.ettehadlive.com/live/119/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,MANOTO
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,IRAN INT
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.manototv.com/static/media/logo.1fc0bcc6.png" ,MANOTO
+https://edge-uk6.manoto.click/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ايران اينترنشنال
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
