@@ -1,14 +1,16 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-logo="",Afghanistan
 0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" ,RTA News
+https://hls.rta.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" ,RTA Sports
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/TOLO_TV_logo_2016.png" ,TOLO TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tolonews.com/themes/custom/tolonews/images/logo-af.jpg" ,TOLO NEWS
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" ,LEMAR TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" ,RTA News
-https://hls.rta.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="",Azebaijan
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yoda.az/a1/aztv_logo.png" ,AZ TV 
