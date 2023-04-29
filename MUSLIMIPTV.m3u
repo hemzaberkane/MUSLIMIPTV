@@ -175,4 +175,27 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Iran 
 0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 1
+https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 2
+https://s1.ettehadlive.com/live/40/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 4
+https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه خبر
+https://s1.ettehadlive.com/live/42/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,الكوثر
+https://s1.ettehadlive.com/live/118/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM AR
+https://s1.ettehadlive.com/live/15/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM
+https://s1.ettehadlive.com/live/99/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM EN
+https://s1.ettehadlive.com/live/119/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,MANOTO
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,IRAN INT
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,
 
