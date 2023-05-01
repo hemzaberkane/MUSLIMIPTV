@@ -11,6 +11,14 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" ,LEMAR TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:-1 tvg-logo="",AFGHAN INT
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.pashtovoa.com/Content/responsive/VOA/pus-AF/img/logo.svg",VOA PASHTO
+https://voa-ingest.akamaized.net/hls/live/2033781/tvmc02/VOA-TVMC02_0720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png",ARIANA TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ariananews.af/wp-content/uploads/2020/09/ATNNewsNewLogo2020.png",ARIANA NEWS
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",Azebaijan
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yoda.az/a1/aztv_logo.png" ,AZ TV 
@@ -175,27 +183,55 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Iran 
 0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv1.ir/img/tv1/1logo.png" ,شبكه 1
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv2.ir/images/tv2/header-logo.png" ,شبكه 2
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 3
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://simacdn2.iribtv.ir/assets/tv4/img/logo.png" ,شبكه 4
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,شبكه خبر
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,الكوثر
 https://s1.ettehadlive.com/live/118/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM AR
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM AR
 https://s1.ettehadlive.com/live/15/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM
 https://s1.ettehadlive.com/live/99/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,IFILM EN
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.ifilmtv.ir/img/colorize-logo-final.png" ,IFILM EN
 https://s1.ettehadlive.com/live/119/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.manototv.com/static/media/logo.1fc0bcc6.png" ,MANOTO
 https://edge-uk6.manoto.click/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,ايران اينترنشنال
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,ايران اينترنشنال
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
+#EXTINF:-1 tvg-id="" tvg-logo="" ,OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" ,PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,VOX 1
+https://hls.vox1.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,4U
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,PERSIANA 
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,PERSIANA ONE
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,PERSIANA PLUS
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,PERSIANA FAMILY
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Simaye Azadi
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ICC
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,TODAY
+https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,ONE
+https://ch1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,FARSI TV
+https://live.farsitv.us/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,SL 1
+https://slonehls.wns.live/hls/stream.m3u8
