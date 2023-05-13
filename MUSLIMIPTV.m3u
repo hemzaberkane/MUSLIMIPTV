@@ -166,7 +166,7 @@ https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.showtv.com.tr/assets/v2/images/desktop/logo/showtv-v-1.svg" ,SHOW
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" ,ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.us" tvg-logo="https://bqte9svezmi4.merlincdn.net//img/logos/logo.svg" ,FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/kanald.png" ,KANAL D
